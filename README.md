@@ -1,5 +1,5 @@
 # MoneyWatch
-Get paid hourly using a stopwatch? Track your time and see how much money you're making at the same time - and log your payouts for easy financial management.
+Get paid hourly using a stopwatch? Track your time and see how much money you're making at the same time - while also logging your payouts for easy financial management.
 
 <img width="897" alt="Screenshot 2025-04-22 at 2 23 13 PM" src="https://github.com/user-attachments/assets/028b04ce-f552-4ed9-a0c0-92ea624312b6" />
 
