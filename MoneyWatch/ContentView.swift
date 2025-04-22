@@ -287,7 +287,7 @@ final class LowLevelTimerController: NSObject {
         // Set the start time
         timerStartDate = Date()
         
-        // Use a low-frequency timer for display updates (15 fps is enough for a stopwatch)
+        // Use a low-frequency timer for display updates (60 fps is enough for a stopwatch)
         displayTimer = Timer.scheduledTimer(timeInterval: 1.0/60.0, target: self, selector: #selector(updateTimer), userInfo: nil, repeats: true)
         
         // Add to common run loop mode to ensure updates even during UI interactions
