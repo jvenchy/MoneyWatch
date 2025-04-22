@@ -10,6 +10,6 @@ Get paid hourly using a stopwatch? Track your time and see how much money you're
 - Swap between USD and CAD: more currencies can be added if requested!
 - Great motivator to keep working
 
-MacOS app attached along with the source code. You should be able to download it locally.
+Because Apple's ecosystem for distributing projects is paywalled behind 99$/yr, I recommend putting the provided files into an XCode file and archiving + distributing a local copy.
 
 Message me with any questions @ joshshergill@gmail.com :)
