@@ -6,7 +6,7 @@ Get paid hourly using a stopwatch? Track your time and see how much money you're
 - Uses local memory to track and store your payouts even after closing out of the app - no more spreadsheets!
 - Set your pay rate
 - Swap between USD and CAD: more currencies can be added if requested!
-- Great motivator to keep working lol
+- Great motivator to keep working
 
 MacOS app attached along with the source code. You should be able to download it locally.
 
