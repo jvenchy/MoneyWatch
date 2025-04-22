@@ -12,4 +12,4 @@ Get paid hourly using a stopwatch? Track your time and see how much money you're
 
 MacOS app attached along with the source code. You should be able to download it locally.
 
-Message me if you find any bugs @ joshshergill@gmail.com :)
+Message me with any questions @ joshshergill@gmail.com :)
